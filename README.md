@@ -1,4 +1,4 @@
-# TensorFlow and Keras Examples
+# TensorFlow with Keras Examples
 
 **lab notes and data examples** 
 

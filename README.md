@@ -10,3 +10,5 @@
 - Iris Analysis
 - Cancer Prediction and overfitting-limitation
 - Loan Repayment with overfitting techniques
+
+The jupyter notebook can be opened in Github by clicking on the notebook file. Might need a refresh to load depending on your browser.
